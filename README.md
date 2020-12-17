@@ -27,7 +27,7 @@ This application utilizes and requires the OpenFace Toolkit which can be found a
 Facial Activity Detection was designed for academic use only, and is expected to receive no updates or further usage.
 ***************************************************************************************************************************************************************************************************************************************
 
-This branch FAD_No_GUI is a secondary branch, please see the main branch for the full readme.
+This branch FAD_NO_GUI is a secondary branch, please see the main branch for the full readme.
 	
 ***************************************************************************************************************************************************************************************************************************************
  
