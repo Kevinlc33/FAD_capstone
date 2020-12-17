@@ -31,7 +31,7 @@ SETUP
 This Git repository contains two significant branches. 
 
 The master branch FAD_Gui must be run first, it's prime class is FAD_Launcher_GUI. 
-Saving this project as an exe will result in the file FAD_setup.exe mentioned in the user guide below. 
+Saving this project as an .exe will result in the file FAD_setup.exe mentioned in the user guide below. 
 
 The second branch FAD_NO_GUI can be run once FAD_Gui has been run one time provided the .exe file mentioned in step 1 of the user guide does not move.
 
