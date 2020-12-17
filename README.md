@@ -1,7 +1,7 @@
 ***************************************************************************************************************************************************************************************************************************************
 Welcome to The Facial Activity Detection app designed by Kevin Clark.
 
-Facial Activity Detection provides Action Unit (AU) analysis of user outputed images. 
+Facial Activity Detection provides Action Unit (AU) analysis of user selected images. 
 For more information on AUs please see the following links:
 
 Facial Action Coding System wiki
