@@ -28,7 +28,7 @@ This application utilizes and requires the OpenFace Toolkit which can be found a
 
 Facial Activity Detection was designed for academic use only, and is expected to receive no updates or further usage.
 
-<img src="https://user-images.githubusercontent.com/24740971/121622695-4c6fe600-ca23-11eb-99e1-2a198a4ac35c.jpg" height="550px"> <img src="https://user-images.githubusercontent.com/24740971/121622708-4ed24000-ca23-11eb-8dbf-e0564171d913.jpeg" height="550px">
+
 ***************************************************************************************************************************************************************************************************************************************
 SETUP
 
